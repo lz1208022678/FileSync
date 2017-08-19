@@ -1,8 +1,3 @@
-```java
-package tongbu;
-
-
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
