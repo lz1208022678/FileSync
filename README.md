@@ -11,9 +11,9 @@ import java.awt.event.*;
 import java.io.*;
 
 public class tongbu extends JFrame{
-	static String t;
-	static String s;
-	private JTextField txtTarget;//目标文件夹
+    static String t;
+    static String s;
+    private JTextField txtTarget;//目标文件夹
     private JTextField txtSource;//源文件夹
     private JLabel lblTarget;
     private JLabel lblSource;
