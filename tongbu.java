@@ -103,7 +103,7 @@ public class tongbu extends JFrame{
                 	t=txtTarget.getText();
                 	tongbu.copyFileOrDir(s,t);
 					JOptionPane.showMessageDialog(null,"同步完成");
-				 //////////////////////////////////////////////////
+		 //////////////////////////////////////////////////
                  //
                  /////////////////////////////////////////////////
                 }
