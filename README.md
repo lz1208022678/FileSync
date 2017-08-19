@@ -1,7 +1,9 @@
 # FileSync
+FileSync
+===============
+--------------
+	java
 package tongbu;
-
-
 
 import javax.swing.*;
 import java.awt.*;
